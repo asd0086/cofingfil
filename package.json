@@ -40,7 +40,7 @@
   "devDependencies": {
     "@chatie/eslint-config": "^0.12.4",
     "@chatie/git-scripts": "^0.6.2",
-    "tstest": "^0.4.10"
+    "tstest": "^1.2.6"
   },
   "git": {
     "scripts": {
